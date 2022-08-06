@@ -1,5 +1,5 @@
 # SudokuSolver
-An implementation of an sudoku-solver using backtracking.
+An implementation of an sudoku-solver using backtracking and recursion.
 
 Examples of the GUI-version (created using pygame):
 
