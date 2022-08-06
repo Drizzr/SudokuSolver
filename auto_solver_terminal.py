@@ -46,7 +46,7 @@ def number_possible(x, y, number):
 				return False
 	return True
 
-def smarty():
+def smart_solver():
 	for x in range(9):
 		for y in range(9):
 			if field[x][y] == emptyField:
@@ -60,5 +60,5 @@ def smarty():
 	print_board()
 
 if __name__ == "__main__":
-	smarty()	
+	smart_solver()	
 
