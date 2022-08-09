@@ -2,6 +2,7 @@
 An implementation of an sudoku-solver using backtracking and recursion.
 
 Examples of the GUI-version (created using pygame):
+You can change the solving-speed via the delay-input (minimum: 0)
 
 ![Bildschirmfoto 2022-08-06 um 16 08 39](https://user-images.githubusercontent.com/76044729/183252627-83542a33-3d43-4946-bd78-5eef8b31a5b4.png)
 
